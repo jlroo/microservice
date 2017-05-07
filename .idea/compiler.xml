@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="client" />
+        <module name="contracts" />
+        <module name="eureka" />
+        <module name="eureka-service" />
+        <module name="facility" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="contracts" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="eureka-service" target="1.8" />
+      <module name="facility" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="mgmt-system" target="1.5" />
+      <module name="spring-boot-admin-sample-eureka" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

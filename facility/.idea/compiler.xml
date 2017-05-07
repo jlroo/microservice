@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client" />
+        <module name="contracts" />
+        <module name="FacilityClient" />
+        <module name="FacilityContracts" />
+        <module name="FacilityManagement" />
+        <module name="FacilityManagment" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client" target="1.6" />
+      <module name="contracts" target="1.5" />
+      <module name="Facility" target="1.8" />
+      <module name="facility" target="1.8" />
+      <module name="FacilityClient" target="1.8" />
+      <module name="FacilityContracts" target="1.8" />
+      <module name="FacilityManagement" target="1.8" />
+      <module name="FacilityManagment" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

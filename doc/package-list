@@ -1,0 +1,7 @@
+edu.luc.cs473.facility.dal
+edu.luc.cs473.facility.models.facility
+edu.luc.cs473.facility.models.maintenance
+edu.luc.cs473.facility.models.use
+edu.luc.cs473.facility.service
+edu.luc.cs473.facility.view
+test

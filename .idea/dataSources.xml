@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PostgreSQL - jdbc:postgresql://[facilitydb.cccirrseg79g.us-east-1.rds.amazonaws.com]:5432/facilitydb" uuid="2802bbe8-f9be-41f6-9c5f-0a24c7f0bab0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://[facilitydb.cccirrseg79g.us-east-1.rds.amazonaws.com]:5432/facilitydb</jdbc-url>
+    </data-source>
+  </component>
+</project>

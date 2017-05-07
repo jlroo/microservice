@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../client/FacilityClient.iml" filepath="$PROJECT_DIR$/../client/FacilityClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../contracts/FacilityContracts.iml" filepath="$PROJECT_DIR$/../contracts/FacilityContracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacilityManagement.iml" filepath="$PROJECT_DIR$/FacilityManagement.iml" />
+    </modules>
+  </component>
+</project>
