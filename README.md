@@ -70,7 +70,7 @@ For this project eight Lenovo laptops running CentOS 7 were configured and netwo
 running on a private network. The client application is running in four of the nodes and the service application is
 running in other four different nodes. Also there is a Master node that runs the admin, eureka and the gateway services.
 
-|*MASTER*|*NODES*|
+|*MAIN*|*NODES*|
 |--------|-------|
 |![](doc/imgs/07master.jpg)|![](doc/imgs/08laptops.jpg)|
 
